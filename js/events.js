@@ -5,6 +5,11 @@ function getIt() {
   });
 }
 
+function frameIt() {
+  $('.tasty').on('load', function(){
+    
+  });
+}
 
 $(document).ready(function(){
 
