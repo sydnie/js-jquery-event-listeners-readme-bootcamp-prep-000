@@ -12,7 +12,7 @@ function frameIt() {
 }
 
 function pressIt() {
-  $('').on('keydown', function(){
+  $('#typing').on('keydown', function(){
     if (key===71) {
      alert();
     }
