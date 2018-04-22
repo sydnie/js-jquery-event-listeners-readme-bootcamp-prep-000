@@ -11,6 +11,12 @@ function frameIt() {
   });
 }
 
+function pressIt() {
+  $('').on('keydown', function(){
+    if ()
+  })
+}
+
 function submitIt() {
   $('form').on('submit', function(){
     alert("Your form is going to be submitted now.");
